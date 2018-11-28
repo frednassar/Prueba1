@@ -11,7 +11,6 @@ body { !important
   font-size: 40px;
 }
 
-.logo {font-weight: 600; color: #fff !important;}
 
 .main-footer {padding-top: 60px;
     padding-bottom: 60px;
@@ -36,4 +35,22 @@ section {background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;}
 
-.contenido-secciones {margin-top: 150px;}
+.contenido-secciones {
+	margin-top: 150px;
+}
+
+.first-slide { 
+	
+	opacity: 0.75;
+}
+
+}
+.second-slide { opacity: 0.75;
+}
+.third-slide { opacity: 0.75;
+}
+
+.carousel-caption {
+    right: 20%;
+    left: 20%;
+    padding-bottom: 75px;
